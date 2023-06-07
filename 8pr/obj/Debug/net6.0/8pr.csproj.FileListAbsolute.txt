@@ -1,0 +1,15 @@
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\bin\Debug\net6.0\8pr.exe
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\bin\Debug\net6.0\8pr.deps.json
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\bin\Debug\net6.0\8pr.runtimeconfig.json
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\bin\Debug\net6.0\8pr.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\bin\Debug\net6.0\8pr.pdb
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\obj\Debug\net6.0\8pr.csproj.AssemblyReference.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\obj\Debug\net6.0\8pr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\obj\Debug\net6.0\8pr.AssemblyInfoInputs.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\obj\Debug\net6.0\8pr.AssemblyInfo.cs
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\obj\Debug\net6.0\8pr.csproj.CoreCompileInputs.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\obj\Debug\net6.0\8pr.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\obj\Debug\net6.0\refint\8pr.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\obj\Debug\net6.0\8pr.pdb
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\obj\Debug\net6.0\8pr.genruntimeconfig.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\8pr\obj\Debug\net6.0\ref\8pr.dll

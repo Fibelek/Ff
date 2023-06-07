@@ -1,0 +1,15 @@
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\bin\Debug\net6.0\2pr.exe
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\bin\Debug\net6.0\2pr.deps.json
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\bin\Debug\net6.0\2pr.runtimeconfig.json
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\bin\Debug\net6.0\2pr.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\bin\Debug\net6.0\2pr.pdb
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\obj\Debug\net6.0\2pr.csproj.AssemblyReference.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\obj\Debug\net6.0\2pr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\obj\Debug\net6.0\2pr.AssemblyInfoInputs.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\obj\Debug\net6.0\2pr.AssemblyInfo.cs
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\obj\Debug\net6.0\2pr.csproj.CoreCompileInputs.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\obj\Debug\net6.0\2pr.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\obj\Debug\net6.0\refint\2pr.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\obj\Debug\net6.0\2pr.pdb
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\obj\Debug\net6.0\2pr.genruntimeconfig.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ConsoleApp1\obj\Debug\net6.0\ref\2pr.dll
