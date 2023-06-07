@@ -1,0 +1,15 @@
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\bin\Debug\net6.0\ek.exe
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\bin\Debug\net6.0\ek.deps.json
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\bin\Debug\net6.0\ek.runtimeconfig.json
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\bin\Debug\net6.0\ek.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\bin\Debug\net6.0\ek.pdb
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\obj\Debug\net6.0\ek.csproj.AssemblyReference.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\obj\Debug\net6.0\ek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\obj\Debug\net6.0\ek.AssemblyInfoInputs.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\obj\Debug\net6.0\ek.AssemblyInfo.cs
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\obj\Debug\net6.0\ek.csproj.CoreCompileInputs.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\obj\Debug\net6.0\ek.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\obj\Debug\net6.0\refint\ek.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\obj\Debug\net6.0\ek.pdb
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\obj\Debug\net6.0\ek.genruntimeconfig.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\ek\ek\obj\Debug\net6.0\ref\ek.dll
