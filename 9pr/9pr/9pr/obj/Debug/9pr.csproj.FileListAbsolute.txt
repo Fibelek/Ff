@@ -1,0 +1,6 @@
+C:\Door\Новая папка (2)\Проги\9pr\9pr\9pr\bin\Debug\9pr.exe.config
+C:\Door\Новая папка (2)\Проги\9pr\9pr\9pr\bin\Debug\9pr.exe
+C:\Door\Новая папка (2)\Проги\9pr\9pr\9pr\bin\Debug\9pr.pdb
+C:\Door\Новая папка (2)\Проги\9pr\9pr\9pr\obj\Debug\9pr.csprojAssemblyReference.cache
+C:\Door\Новая папка (2)\Проги\9pr\9pr\9pr\obj\Debug\9pr.exe
+C:\Door\Новая папка (2)\Проги\9pr\9pr\9pr\obj\Debug\9pr.pdb

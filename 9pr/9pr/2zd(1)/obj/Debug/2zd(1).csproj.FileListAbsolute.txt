@@ -1,0 +1,5 @@
+C:\Door\Новая папка (2)\Проги\9pr\9pr\2zd(1)\bin\Debug\2zd(1).exe.config
+C:\Door\Новая папка (2)\Проги\9pr\9pr\2zd(1)\bin\Debug\2zd(1).exe
+C:\Door\Новая папка (2)\Проги\9pr\9pr\2zd(1)\bin\Debug\2zd(1).pdb
+C:\Door\Новая папка (2)\Проги\9pr\9pr\2zd(1)\obj\Debug\2zd(1).exe
+C:\Door\Новая папка (2)\Проги\9pr\9pr\2zd(1)\obj\Debug\2zd(1).pdb

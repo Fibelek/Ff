@@ -1,0 +1,14 @@
+C:\Door\Новая папка (2)\Проги\11pr\11pr\2zd\bin\Debug\2zd.exe.config
+C:\Door\Новая папка (2)\Проги\11pr\11pr\2zd\bin\Debug\2zd.exe
+C:\Door\Новая папка (2)\Проги\11pr\11pr\2zd\bin\Debug\2zd.pdb
+C:\Door\Новая папка (2)\Проги\11pr\11pr\2zd\obj\Debug\2zd.exe
+C:\Door\Новая папка (2)\Проги\11pr\11pr\2zd\obj\Debug\2zd.pdb
+C:\Door\Новая папка (2)\Проги\11pr\11pr\2zd\obj\Debug\2zd.csprojAssemblyReference.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\2zd\bin\Debug\2zd.exe.config
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\2zd\bin\Debug\2zd.exe
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\2zd\bin\Debug\2zd.pdb
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\2zd\obj\Debug\2zd.csproj.AssemblyReference.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\2zd\obj\Debug\2zd.csproj.SuggestedBindingRedirects.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\2zd\obj\Debug\2zd.csproj.CoreCompileInputs.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\2zd\obj\Debug\2zd.exe
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\2zd\obj\Debug\2zd.pdb

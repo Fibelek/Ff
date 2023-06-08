@@ -1,0 +1,8 @@
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\11pr\bin\Debug\11pr.exe.config
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\11pr\bin\Debug\11pr.exe
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\11pr\bin\Debug\11pr.pdb
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\11pr\obj\Debug\1zd.csproj.AssemblyReference.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\11pr\obj\Debug\1zd.csproj.SuggestedBindingRedirects.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\11pr\obj\Debug\1zd.csproj.CoreCompileInputs.cache
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\11pr\obj\Debug\11pr.exe
+C:\Проект\Проект\WindowsFormsApp1\bin\Debug\11pr\11pr\11pr\obj\Debug\11pr.pdb

@@ -1,0 +1,6 @@
+C:\Door\Новая папка (2)\Проги\11pr\11pr\11pr\bin\Debug\11pr.exe.config
+C:\Door\Новая папка (2)\Проги\11pr\11pr\11pr\bin\Debug\11pr.exe
+C:\Door\Новая папка (2)\Проги\11pr\11pr\11pr\bin\Debug\11pr.pdb
+C:\Door\Новая папка (2)\Проги\11pr\11pr\11pr\obj\Debug\11pr.csprojAssemblyReference.cache
+C:\Door\Новая папка (2)\Проги\11pr\11pr\11pr\obj\Debug\11pr.exe
+C:\Door\Новая папка (2)\Проги\11pr\11pr\11pr\obj\Debug\11pr.pdb

@@ -1,0 +1,6 @@
+C:\Door\Новая папка (2)\Проги\10pr\10pr\10pr\bin\Debug\10pr.exe.config
+C:\Door\Новая папка (2)\Проги\10pr\10pr\10pr\bin\Debug\10pr.exe
+C:\Door\Новая папка (2)\Проги\10pr\10pr\10pr\bin\Debug\10pr.pdb
+C:\Door\Новая папка (2)\Проги\10pr\10pr\10pr\obj\Debug\10pr.csprojAssemblyReference.cache
+C:\Door\Новая папка (2)\Проги\10pr\10pr\10pr\obj\Debug\10pr.exe
+C:\Door\Новая папка (2)\Проги\10pr\10pr\10pr\obj\Debug\10pr.pdb
