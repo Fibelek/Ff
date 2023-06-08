@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\8pr\2zd\bin\Debug\2zd.exe.config
+C:\Users\user\source\repos\8pr\2zd\bin\Debug\2zd.exe
+C:\Users\user\source\repos\8pr\2zd\bin\Debug\2zd.pdb
+C:\Users\user\source\repos\8pr\2zd\obj\Debug\2zd.csprojAssemblyReference.cache
+C:\Users\user\source\repos\8pr\2zd\obj\Debug\2zd.exe
+C:\Users\user\source\repos\8pr\2zd\obj\Debug\2zd.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\8pr\1zd(2)\bin\Debug\1zd(2).exe.config
+C:\Users\user\source\repos\8pr\1zd(2)\bin\Debug\1zd(2).exe
+C:\Users\user\source\repos\8pr\1zd(2)\bin\Debug\1zd(2).pdb
+C:\Users\user\source\repos\8pr\1zd(2)\obj\Debug\1zd(2).exe
+C:\Users\user\source\repos\8pr\1zd(2)\obj\Debug\1zd(2).pdb

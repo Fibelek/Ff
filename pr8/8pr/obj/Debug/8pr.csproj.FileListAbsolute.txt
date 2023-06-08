@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\8pr\8pr\bin\Debug\8pr.exe.config
+C:\Users\user\source\repos\8pr\8pr\bin\Debug\8pr.exe
+C:\Users\user\source\repos\8pr\8pr\bin\Debug\8pr.pdb
+C:\Users\user\source\repos\8pr\8pr\obj\Debug\8pr.csprojAssemblyReference.cache
+C:\Users\user\source\repos\8pr\8pr\obj\Debug\8pr.exe
+C:\Users\user\source\repos\8pr\8pr\obj\Debug\8pr.pdb
