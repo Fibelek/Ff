@@ -1,0 +1,6 @@
+C:\Door\Новая папка (2)\Проги\14pr\14pr\14pr\bin\Debug\14pr.exe.config
+C:\Door\Новая папка (2)\Проги\14pr\14pr\14pr\bin\Debug\14pr.exe
+C:\Door\Новая папка (2)\Проги\14pr\14pr\14pr\bin\Debug\14pr.pdb
+C:\Door\Новая папка (2)\Проги\14pr\14pr\14pr\obj\Debug\14pr.csprojAssemblyReference.cache
+C:\Door\Новая папка (2)\Проги\14pr\14pr\14pr\obj\Debug\14pr.exe
+C:\Door\Новая папка (2)\Проги\14pr\14pr\14pr\obj\Debug\14pr.pdb
